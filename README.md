@@ -35,10 +35,6 @@
 
 ## 技術スタック
 
-<div style="display: grid; gap: 15px; grid-col; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
-
-<div>
-
 | 言語                                                                                                                             | 経験   |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> | 1.5 年 |
