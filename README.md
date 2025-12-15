@@ -42,10 +42,6 @@
 | <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />                                         | 1.5 年 |
 | <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />        | 1.5 年 |
 
-</div>
-
-<div>
-
 | フレームワーク                                                                                                       | 経験   |
 | -------------------------------------------------------------------------------------------------------------------- | ------ |
 | <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />    | 1.5 年 |
@@ -53,9 +49,6 @@
 | <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />       | 1 年   |
 | <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> | 1.5 年 |
 | <img alt="Docker" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff" />                    | 0.5 年 |
-
-</div>
-</div>
 
 ## 職務経歴概要
 
