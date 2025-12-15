@@ -15,9 +15,9 @@ layout: doc
 
 ## 各種アカウント
 
-- [zenn](https://zenn.dev/sa_m)
-- [connpass](https://connpass.com/user/M-Sa955/)
-- [GitHub](https://github.com/M-Satou955)
+- [zenn](https://zenn.dev/sa_m) {open}
+- [connpass](https://connpass.com/user/M-Sa955/) {open}
+- [GitHub](https://github.com/M-Satou955)　{open}
 
 ## 活かせる経験・スキル
 
