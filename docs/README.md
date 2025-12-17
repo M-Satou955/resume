@@ -196,7 +196,7 @@ Box Python SDK 連携の調査、ナレッジ化
 
 ## 業務外活動
 
-- VueFes2025 スタッフ参加
+- Vue Fes Japan 2025 スタッフ参加
 - OSS 活動
   - https://github.com/tyamahori/higuma-notify
     - [人生で初めて CI 作ったので記事にしてみる](https://zenn.dev/sa_m/articles/28c32a5f24264b)
